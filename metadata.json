@@ -1,0 +1,6 @@
+{
+  "name": "วิทยาการคำนวณ ม.3",
+  "description": "ระบบบทเรียนออนไลน์ รายวิชาวิทยาการคำนวณ ชั้นมัธยมศึกษาปีที่ 3 พร้อมระบบเข้าเรียน ระบบทดสอบ และระบบรายงานวิเคราะห์คะแนนเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
